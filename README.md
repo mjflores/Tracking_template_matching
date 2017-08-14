@@ -1,3 +1,3 @@
 # Template-matching-example
 
-This example shows the template matching procedure to tracking a selected patch
+This example shows the template matching method to track a selected patch
